@@ -9,7 +9,7 @@
 
 - 👨‍💻 I am currently working on **various projects** in hopes of improving and learning new things!**.
 
-- 👨‍🔬 I am closing in on my final year as an undergraduate Computer Science student at the University of New Brunswick.
+- 👨‍🔬 I am closing in on my final year as an undergraduate Computer Science student at a University.
 
 - 📖  The projects that I have taken on on my own time, along with the skills that I gained while taking a variety of programming classes has allowed me to develop a skill set that allows me to face any programming difficulties I may face with ease.
 
