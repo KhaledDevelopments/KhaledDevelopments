@@ -47,5 +47,4 @@
 		<img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/outlook.png" alt="My Email Address!" height="50" width="50" />
 	</a>
 	
-	<!-- Add Instagram, Twitter/X, LeetCode, etc... -->
 </p>
