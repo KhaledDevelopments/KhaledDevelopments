@@ -7,13 +7,13 @@
 	<img src="https://i.pinimg.com/originals/29/1c/55/291c5593304891ff1607d696f9f3b7a6.gif" alt="Programming Meme" />
 </p>
 
-- 👨‍💻 I am currently working on **various projects** in hopes of improving and learning new things!.
+- 👨‍💻 I am currently working on **various projects** in hopes of improving and learning new things!
 
-- 👨‍🔬 I am closing in on my final year as an undergraduate Computer Science student at a University.
+- 👨‍🔬 I am closing in on my final year as an undergraduate Computer Science student at the University of New Brunswick.
 
-- 📖  The projects that I have taken on on my own time, along with the skills that I gained while taking a variety of programming classes has allowed me to develop a skill set that allows me to face any programming difficulties I may face with ease.
+- 📖  The projects that I have taken on on my own time, along with the skills that I gained while taking a variety of programming classes have helped me to develop a skill set that enables me to face any programming difficulties I may face with ease.
 
-- 🔮 In the future, I look forward to work on bigger projects with bigger teams consisting of people who may be more knowledgable as well as people who may be less knowledgable than I am as I believe that this is a great way to develop one's skills and allow provide a bigger learning grounds.
+- 🔮 In the future, I look forward to work on bigger projects with bigger teams, consisting of people who may be more knowledgable or less knowledgable than I am as I believe that this is a great way to develop one's skills through learning and teaching.
 
 <h3 align="left">Highly Skilled In The Following Languages:</h3>
 <p align="left">
